@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\bin\Debug\net8.0\PhuongThucXoaPhanTu.exe
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\bin\Debug\net8.0\PhuongThucXoaPhanTu.deps.json
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\bin\Debug\net8.0\PhuongThucXoaPhanTu.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\bin\Debug\net8.0\PhuongThucXoaPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\bin\Debug\net8.0\PhuongThucXoaPhanTu.pdb
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\refint\PhuongThucXoaPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.pdb
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\PhuongThucXoaPhanTu.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\PhuongThucXoaPhanTu\obj\Debug\net8.0\ref\PhuongThucXoaPhanTu.dll
